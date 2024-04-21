@@ -78,7 +78,7 @@ export default function Movie() {
       setMovies(data.Search);
     } catch (error) {
       console.error('Error fetching movies:', error);
-      // Handle error state here
+
     }
   };
 
