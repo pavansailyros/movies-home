@@ -5,7 +5,7 @@ import MoviesCards from './MoviesCard';
 // 200aed05
 import './App.css'
 import serchIcon from './search.svg'
-const API_URL = 'http://www.omdbapi.com?apikey=200aed05';
+const API_URL = 'https://www.omdbapi.com?apikey=200aed05';
 // const movie1 = {
 //   "Title": "Superman IV: The Quest for Peace",
 //   "Year": "1987",
